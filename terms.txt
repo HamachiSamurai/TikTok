@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Terms of Service</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>This tool fetches TikTok insights (views, watch time, completion rate, etc.) from our own business account for internal reporting. No personal data is collected or shared.</p>
+</body>
+</html>

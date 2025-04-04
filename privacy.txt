@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>We only access and store analytics related to our own TikTok videos. We do not collect, store, or share any user-generated content or personal information.</p>
+</body>
+</html>
